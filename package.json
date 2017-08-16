@@ -1,0 +1,26 @@
+{
+  "name": "particleswarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamilczak020/ParticleSwarm.git"
+  },
+  "author": "Kamil Solecki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kamilczak020/ParticleSwarm/issues"
+  },
+  "homepage": "https://github.com/Kamilczak020/ParticleSwarm#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.2",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.4"
+  }
+}
